@@ -69,6 +69,10 @@ Friedemann Schulz von Thun's "Inneres Team" proposes that each person contains m
 
 The skill casts you as the **team leader** of your inner team. The goal is not to silence voices or find a bland average, but to hear each one fully and then make an integrated decision as the leader who holds the whole picture.
 
+## Author
+
+[Matthias Lugert](https://github.com/matlugert)
+
 ## License
 
 MIT
