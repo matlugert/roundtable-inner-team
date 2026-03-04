@@ -37,7 +37,7 @@ Then in any Claude Code session:
 Or pass the dilemma directly:
 
 ```
-/roundtable-inner-team I need to decide whether to fire a loyal but underperforming team lead. Voices: The CEO, The Friend, The Mentor, The Pragmatist.
+/roundtable-inner-team [Describe situation, the more detail the better] Voices: The CEO, The Friend, The Mentor, The Pragmatist.
 ```
 
 ## Output structure
