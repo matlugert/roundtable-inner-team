@@ -4,7 +4,7 @@ Your head is not one voice. It's a committee.
 
 A Claude Code command that facilitates your **Inner Team** — the competing voices inside you that make hard decisions feel impossible. Based on Friedemann Schulz von Thun's [Inner Team model](https://en.wikipedia.org/wiki/Friedemann_Schulz_von_Thun), it gives each voice a seat at the table, maps the tensions between them, and builds a resolution that doesn't pretend the trade-offs don't exist.
 
-Not therapy. Not coaching fluff. A structured process that turns "I don't know what to do" into "here's what I'm doing and why."
+Not therapy. Not coaching. A structured process that turns "I don't know what to do" into "here's what I'm doing and why."
 
 ## How it works
 
