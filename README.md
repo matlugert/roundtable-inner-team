@@ -69,9 +69,10 @@ Friedemann Schulz von Thun's "Inneres Team" proposes that each person contains m
 
 The skill casts you as the **team leader** of your inner team. The goal is not to silence voices or find a bland average, but to hear each one fully and then make an integrated decision as the leader who holds the whole picture.
 
-## Companion skill
+## Companion skills
 
-For analyzing code, architecture, strategy docs, or any artifact that benefits from multi-perspective expert review, see [/roundtable-experts](https://github.com/matlugert/roundtable-experts) — same structured-disagreement philosophy, but using external expert lenses instead of inner voices.
+- [/roundtable-review](https://github.com/matlugert/roundtable-review) — Multi-expert critique to find what's wrong with an artifact.
+- [/roundtable-perspectives](https://github.com/matlugert/roundtable-perspectives) — Multi-stakeholder synthesis to find shared ground across perspectives.
 
 ## Author
 
